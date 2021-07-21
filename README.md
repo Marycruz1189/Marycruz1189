@@ -1,6 +1,6 @@
 ### Hola, soy Mary Cruz Meza  👋
 
-Soy una Junior Data Scientist en Madrid-España
+Soy una Junior Data Scientist en Madrid-España.
 Este es el resumen de mi trabajo, en el maravilloso proceso de convertirme en una apasionada de los datos. 
 
 ## Sobre mi trabajo: 
