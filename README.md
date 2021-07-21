@@ -23,6 +23,10 @@ Este es el resumen de mi trabajo, en el maravilloso proceso de convertirme en un
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 
+## Estadísticas del Perfil
+
+<img src="https://komarev.com/ghpvc/?username=Marycruz1189"/>
+
 [![Mary Cruz's github trophy](https://github-profile-trophy.vercel.app/?username=Marycruz1189&row=1)](https://github.com/Marycruz1189/github-profile-trophy)
 
 <img align="left" alt="TUUSER's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Marycruz1189&show_icons=true&hide_border=true" />
