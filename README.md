@@ -18,4 +18,16 @@ Este es el resumen de mi trabajo, en el maravilloso proceso de convertirme en un
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Tensor Flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+
+
+[![Mary Cruz's github trophy](https://github-profile-trophy.vercel.app/?username=Marycruz1189&row=1)](https://github.com/Marycruz1189/github-profile-trophy)
+
+<img align="left" alt="TUUSER's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Marycruz1189&show_icons=true&hide_border=true" />
+
+[![Mary Cruz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Marycruz1189&theme=blue-green)](https://github.com/Marycruz1189/github-readme-streak-stats)
+
+
 
