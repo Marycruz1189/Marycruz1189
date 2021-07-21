@@ -13,11 +13,9 @@ Este es el resumen de mi trabajo, en el maravilloso proceso de convertirme en un
 ## Skills: 
 👩‍💻 Languages 🔝
 
-![Python]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-![TensorFlow]https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white
-![Keras]https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white
-![Numpy]https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-![Pandas]https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
-![Streamlit]https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white
-![PyTorch]https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white
-![json]https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white
+![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=306998&labelColor=FFD43B)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Tensor Flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+
