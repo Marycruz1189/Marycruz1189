@@ -4,7 +4,8 @@ Soy una Junior Data Scientist en Madrid-España.
 Este es el resumen de mi trabajo, en el maravilloso proceso de convertirme en una apasionada de los datos. 
 
 ## Sobre mi trabajo: 
-https://public.tableau.com/app/profile/mary.cruz/viz/EDAProject_16225008385510/Historia1
+https://marycruz1189.github.io/
+
 
 ## Puedes encontrarme en: 
 
